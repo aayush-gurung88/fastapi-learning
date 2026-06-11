@@ -21,3 +21,9 @@ What are the terms and concepts that I have used from my learning ......!!!
     meaning:
         Data disappears when server restarts
         No real database yet
+        
+task.model_dump()
+
+यसले:
+
+Pydantic object lai normal Python dictionary ma convert garxa.
